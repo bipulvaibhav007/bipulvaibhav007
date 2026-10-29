@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" fill="none" role="img" aria-label="Bipul Vaibhav — full-stack software engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#081225"/><stop offset=".58" stop-color="#101B35"/><stop offset="1" stop-color="#09203C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="92" y1="80" x2="680" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8BE5F8"/><stop offset=".48" stop-color="#66B4FF"/><stop offset="1" stop-color="#A58EFF"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="740" y1="40" x2="1100" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#172D50"/><stop offset="1" stop-color="#0B1730"/></linearGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop stop-color="#4EA8FF"/><stop offset="1" stop-color="#5AE0D0"/></linearGradient>
+    <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#7E9ABF" opacity=".14"/></pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="42"/></filter>
+    <clipPath id="clip"><rect width="1200" height="350" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="350" fill="url(#bg)"/>
+    <rect width="1200" height="350" fill="url(#dots)"/>
+    <circle cx="1080" cy="90" r="130" fill="#388EFF" opacity=".10" filter="url(#soft)"/>
+    <circle cx="360" cy="340" r="150" fill="#6470FF" opacity=".10" filter="url(#soft)"/>
+    <path d="M0 319H1200" stroke="#7FA8D8" stroke-opacity=".16"/>
+    <rect x="56" y="47" width="188" height="31" rx="15.5" fill="#1A3455" stroke="#4F83AB" stroke-opacity=".48"/>
+    <circle cx="72" cy="62.5" r="4" fill="#55DDBF"/>
+    <text x="86" y="67" fill="#BDD9F4" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="12" letter-spacing="1.4">AVAILABLE TO BUILD</text>
+    <text x="56" y="161" fill="#F2F7FF" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="64" letter-spacing="-2.1">BIPUL</text>
+    <text x="268" y="161" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="64" letter-spacing="-2.1">VAIBHAV</text>
+    <text x="59" y="211" fill="#B7CBE4" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="1">FULL-STACK SOFTWARE ENGINEER</text>
+    <path d="M59 235H541" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity=".75"/>
+    <text x="59" y="273" fill="#8FACCB" font-family="Arial, Helvetica, sans-serif" font-size="17">Web platforms</text><circle cx="204" cy="267" r="3" fill="#60D5D0"/>
+    <text x="220" y="273" fill="#8FACCB" font-family="Arial, Helvetica, sans-serif" font-size="17">API engineering</text><circle cx="363" cy="267" r="3" fill="#60D5D0"/>
+    <text x="380" y="273" fill="#8FACCB" font-family="Arial, Helvetica, sans-serif" font-size="17">Automation</text>
+    <rect x="722" y="43" width="420" height="264" rx="16" fill="url(#panel)" stroke="#5F81B1" stroke-opacity=".44"/>
+    <path d="M722 86H1142" stroke="#5F81B1" stroke-opacity=".35"/>
+    <circle cx="748" cy="65" r="5" fill="#FB7777"/><circle cx="766" cy="65" r="5" fill="#FBC66D"/><circle cx="784" cy="65" r="5" fill="#5CD3B4"/>
+    <text x="916" y="69" fill="#839ABD" font-family="Consolas, 'Courier New', monospace" font-size="13">developer.ts</text>
+    <text x="748" y="119" fill="#6784A9" font-family="Consolas, 'Courier New', monospace" font-size="15">01</text>
+    <text x="783" y="119" fill="#B48CFF" font-family="Consolas, 'Courier New', monospace" font-size="15">const</text><text x="838" y="119" fill="#E5EEFF" font-family="Consolas, 'Courier New', monospace" font-size="15"> engineer = {</text>
+    <text x="748" y="149" fill="#6784A9" font-family="Consolas, 'Courier New', monospace" font-size="15">02</text>
+    <text x="808" y="149" fill="#8DD9FF" font-family="Consolas, 'Courier New', monospace" font-size="15">focus:</text><text x="871" y="149" fill="#B8E6C4" font-family="Consolas, 'Courier New', monospace" font-size="15"> 'Full Stack',</text>
+    <text x="748" y="179" fill="#6784A9" font-family="Consolas, 'Courier New', monospace" font-size="15">03</text>
+    <text x="808" y="179" fill="#8DD9FF" font-family="Consolas, 'Courier New', monospace" font-size="15">builds:</text><text x="882" y="179" fill="#B8E6C4" font-family="Consolas, 'Courier New', monospace" font-size="15"> 'Scalable Apps',</text>
+    <text x="748" y="209" fill="#6784A9" font-family="Consolas, 'Courier New', monospace" font-size="15">04</text>
+    <text x="808" y="209" fill="#8DD9FF" font-family="Consolas, 'Courier New', monospace" font-size="15">cares:</text><text x="871" y="209" fill="#B8E6C4" font-family="Consolas, 'Courier New', monospace" font-size="15"> 'Clean Code'</text>
+    <text x="748" y="239" fill="#6784A9" font-family="Consolas, 'Courier New', monospace" font-size="15">05</text><text x="783" y="239" fill="#E5EEFF" font-family="Consolas, 'Courier New', monospace" font-size="15">};</text>
+    <rect x="748" y="264" width="366" height="1" fill="#4B6A93" opacity=".5"/>
+    <text x="749" y="287" fill="#72D5C9" font-family="Consolas, 'Courier New', monospace" font-size="13">$ build. test. ship. improve.</text>
+    <path d="M1152 -8L1212 52M1090 -8L1212 114" stroke="#4EA8FF" stroke-opacity=".2" stroke-width="2"/>
+    <rect width="1198" height="348" x="1" y="1" rx="21" stroke="#7C9ABC" stroke-opacity=".27" stroke-width="2"/>
+  </g>
+</svg>
